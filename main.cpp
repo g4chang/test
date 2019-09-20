@@ -47,6 +47,7 @@
 int main( void )
 {	
 	printf("よろしくお願いします。\n");
+	printf("Test。\n");
 
 	// キー入力待ち
 	rewind(stdin);
