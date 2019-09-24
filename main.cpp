@@ -46,7 +46,7 @@
 *******************************************************************************/
 int main( void )
 {	
-	printf("よろしくお願いします。\n");
+	printf("よろしくお願いします。g4changc conflict002\n");
 	printf("Test。\n");
 	printf("Hello World!\n");
 
