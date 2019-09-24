@@ -48,6 +48,7 @@ int main( void )
 {	
 	printf("よろしくお願いします。g4chang conflict001\n");
 	printf("Test。\n");
+	printf("Hello World!\n");
 
 	// キー入力待ち
 	rewind(stdin);
