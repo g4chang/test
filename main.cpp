@@ -49,7 +49,7 @@ int main( void )
 	printf("よろしくお願いします。conflict resolved\n");
 	printf("Test。\n");
 	printf("Hello World!\n");
-	printf("test by zhou \n");
+	printf("test by zhou + zhang \n");
 	printf("Ha ha ha ha ha~\n");
 
 	// キー入力待ち
