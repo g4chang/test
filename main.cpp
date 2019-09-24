@@ -45,10 +45,11 @@
 説明:	メイン関数
 *******************************************************************************/
 int main( void )
-{	
+{		
 	printf("よろしくお願いします。conflict resolved\n");
 	printf("Test。\n");
 	printf("Hello World!\n");
+	printf("test zhou \n");
 
 	// キー入力待ち
 	rewind(stdin);
