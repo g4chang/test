@@ -50,7 +50,7 @@ int main( void )
 	printf("Test。\n");
 	printf("Hello World!\n");
 	printf("test by zhou + zhang \n");
-	printf("Ha ha ha ha ha~\n");
+
 	printf("add branch dev-g4changc");
 
 	// キー入力待ち
