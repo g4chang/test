@@ -54,6 +54,7 @@ int main( void )
 	printf("add branch dev-g4changc");
 	printf("Create branch dev from master");
 	printf("Create branch dev-tyoujyou from dev");
+	printf("Create branch dev-tyoujyou2nd from dev");
 
 	// キー入力待ち
 	rewind(stdin);
