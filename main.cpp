@@ -52,6 +52,7 @@ int main( void )
 	printf("test by zhou + zhang \n");
 
 	printf("add branch dev-g4changc");
+	printf("Create branch dev from master");
 
 	// キー入力待ち
 	rewind(stdin);
